@@ -74,10 +74,15 @@ flutter run
 
 ---
 
-## 🐟 License
+---
 
-📝 This project is licensed under the **MIT License**.  
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://codeshow-lapz.web.app) file for details.
 
 ---
 
-💙 **Made with Flutter & Love** 🚀
+## 📧 Contact
+
+For any questions or suggestions, please reach out at:
+- **LinkedIn**: [Lahiru Senavirathna](https://www.linkedin.com/in/lahiru-senavirathna-39b11a215/)
