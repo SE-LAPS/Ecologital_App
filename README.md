@@ -63,7 +63,8 @@ flutter run
 
 | 🏠 Home Screen | 📋 Menu Screen | 🛂 Cart Screen |
 |---------------|--------------|--------------|
-| ![Home](https://via.placeholder.com/150) | ![Menu](https://via.placeholder.com/150) | ![Cart](https://via.placeholder.com/150) |
+| ![Home](![Onboarding - 01](https://github.com/user-attachments/assets/7cb52a9f-2107-4ab5-ab24-afc53df92847)
+   ) | ![Menu](https://via.placeholder.com/150) | ![Cart](https://via.placeholder.com/150) |
 
 ---
 
