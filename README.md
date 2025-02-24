@@ -61,14 +61,12 @@ flutter run
 
 ## 🖼️ Screenshots
 
-| 🏠 Home Screen | 📋 Capture Screen | 🛂 Ingredidient Screen |
+| 🏠 Home Screen | 📋 Capture Screen | 🛂 Ingredient Screen |
 |---------------|--------------|--------------|
-| (![Onboarding - 01](https://github.com/user-attachments/assets/7cb52a9f-2107-4ab5-ab24-afc53df92847)
-   ) | (![Ingredient Photo Capture](https://github.com/user-attachments/assets/9c910ff0-ae77-4d4b-99f5-25f02b364db7)
-    ) |![Food Details-01](https://github.com/user-attachments/assets/b3a4c5ee-43a9-40fb-847d-303576fe59c6)
- ) |
+| ![Onboarding - 01](https://github.com/user-attachments/assets/7cb52a9f-2107-4ab5-ab24-afc53df92847) | ![Ingredient Photo Capture](https://github.com/user-attachments/assets/9c910ff0-ae77-4d4b-99f5-25f02b364db7) | ![Food Details-01](https://github.com/user-attachments/assets/b3a4c5ee-43a9-40fb-847d-303576fe59c6) |
 
 ---
+
 
 ## 🏆 Contributing
 
