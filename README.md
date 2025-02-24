@@ -61,10 +61,11 @@ flutter run
 
 ## 🖼️ Screenshots
 
-| 🏠 Home Screen | 📋 Menu Screen | 🛂 Cart Screen |
+| 🏠 Home Screen | 📋 Capture Screen | 🛂 Cart Screen |
 |---------------|--------------|--------------|
 | ![Home](![Onboarding - 01](https://github.com/user-attachments/assets/7cb52a9f-2107-4ab5-ab24-afc53df92847)
-   ) | ![Menu](https://via.placeholder.com/150) | ![Cart](https://via.placeholder.com/150) |
+   ) | ![Menu](![Ingredient Photo Capture](https://github.com/user-attachments/assets/9c910ff0-ae77-4d4b-99f5-25f02b364db7)
+    ) | ![Cart](https://via.placeholder.com/150) |
 
 ---
 
