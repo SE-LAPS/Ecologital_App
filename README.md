@@ -1,4 +1,4 @@
-# 🍽️ Ecologital App - Flutter Food Ordering Application
+# Ecologital App - Flutter Food Ordering Application
 
 🚀 **Ecologital App** is a sleek and user-friendly **food ordering application** built using **Flutter**. With this app, users can browse a variety of delicious meals, add them to their cart, and place orders effortlessly!  
 
@@ -61,11 +61,12 @@ flutter run
 
 ## 🖼️ Screenshots
 
-| 🏠 Home Screen | 📋 Capture Screen | 🛂 Cart Screen |
+| 🏠 Home Screen | 📋 Capture Screen | 🛂 Ingredidient Screen |
 |---------------|--------------|--------------|
-| ![Home](![Onboarding - 01](https://github.com/user-attachments/assets/7cb52a9f-2107-4ab5-ab24-afc53df92847)
-   ) | ![Menu](![Ingredient Photo Capture](https://github.com/user-attachments/assets/9c910ff0-ae77-4d4b-99f5-25f02b364db7)
-    ) | ![Cart](https://via.placeholder.com/150) |
+| (![Onboarding - 01](https://github.com/user-attachments/assets/7cb52a9f-2107-4ab5-ab24-afc53df92847)
+   ) | (![Ingredient Photo Capture](https://github.com/user-attachments/assets/9c910ff0-ae77-4d4b-99f5-25f02b364db7)
+    ) |![Food Details-01](https://github.com/user-attachments/assets/b3a4c5ee-43a9-40fb-847d-303576fe59c6)
+ ) |
 
 ---
 
